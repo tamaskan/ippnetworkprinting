@@ -1,6 +1,8 @@
 # ippnetworkprinting
 Network Printer Scanning and Printing via IPP
 
+[NO SUPPORT/Issues/Pull requests, consider this repository abandoned]
+
 Idea from
 
 https://www.reddit.com/r/selfhosted/comments/ug4e1d/what_is_a_selfhostable_service_you_wish_existed/i6zcif7/?context=3
