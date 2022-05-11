@@ -11,6 +11,8 @@ Docker Container must run on Host-Network
 Environment-Variable NETWORKIPRANGE must be set (usually something like 192.168.x.1)
 Device-Name by snmpget
 
+http://deviceip:5000 to access the web-ui
+
 I don't really know docker or python, so this is a really whacky solution. 
 
 Does it work with multiple printers ? i don't know
