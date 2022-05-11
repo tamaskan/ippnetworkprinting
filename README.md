@@ -1,9 +1,16 @@
 # ippnetworkprinting
 Network Printer Scanning and Printing via IPP
 
+Idea from
+
+https://www.reddit.com/r/selfhosted/comments/ug4e1d/what_is_a_selfhostable_service_you_wish_existed/i6zcif7/?context=3
+
 Based on 
 
 https://gitlab.com/aapjeisbaas/pdf-to-ipp
+
+and
+
 https://hub.docker.com/r/aapjeisbaas/pdf-to-ipp
 
 Scanning Network Printer via Nmap every 10 Minutes via Cron
